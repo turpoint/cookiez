@@ -1,0 +1,26 @@
+{
+  "name": "cookiez",
+  "version": "1.0.0",
+  "description": "Cookie consent manager in vanilla JavaScript. Bring your own markup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turpoint/cookiez.git"
+  },
+  "keywords": [
+    "cookie",
+    "consent",
+    "gdpr",
+    "manager",
+    "vanilla"
+  ],
+  "author": "Turpoint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turpoint/cookiez/issues"
+  },
+  "homepage": "https://github.com/turpoint/cookiez#readme"
+}
